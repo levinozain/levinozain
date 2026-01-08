@@ -1,4 +1,12 @@
-🌇 **Hello Everyone**
-_________________________________________________
+**Hey There!** 
 
-My repository include all of stuff that i am currently working on
+My name is levinozain, i am an tech entusiast (not an professional)
+
+I deploy application on VPS or Cloud Server 
+and sometimes working on developing backend application in expressjs
+
+My github repository doesnt contains any of my backend project (for now i guess)
+
+Most of my repository contains open source program that i use in my clients company
+I'm responsible to make sure application is running perfectly and nothing got into a problem
+
